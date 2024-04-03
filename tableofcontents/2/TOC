@@ -1,0 +1,129 @@
+{
+	"Entries": [
+		{
+			"BundleName": "animatronics/shared",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "animatronics/bareendo",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "animatronics/freddy",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "animatronics/bonnie",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "animatronics/chica",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "animatronics/springtrap",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "animatronics/shadowbonnie",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "animatronics/mxes",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "droppable_objects/mangle_encounter",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "droppable_objects/chica_encounter",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "ui/icons/portrait",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "ui/icons/plushsuit",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "ui/icons/cpu",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "ui/icons/reward",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "ui/icons/store",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "ui/icons/trophies",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "ui/icons/profileavatar",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "trophies/basic",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "ballooncommon",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "ui/mapentitycommon",
+			"BundleVersion": "1",
+			"DownloadOnStartup": true
+		},
+		{
+			"BundleName": "environments/freddy",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "environments/bonnie",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "environments/chica",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "intros/freddy",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		},
+		{
+			"BundleName": "intros/bonnie",
+			"BundleVersion": "1",
+			"DownloadOnStartup": false
+		}
+	]
+}
