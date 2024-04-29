@@ -1,0 +1,989 @@
+
+  "Hellspawn111222214_1656106658549_A281BF21BA6E8A47": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_A281BF21BA6E8A47",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_A281BF21BA6E8A96": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_A281BF21BA6E8A96",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_A281BF21BA6E8A76": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_A281BF21BA6E8A76",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_A181BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_A181BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_G281BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_G281BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_F281BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_F281BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_E281BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_E281BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_D281BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_D281BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_C281BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_C281BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_B281BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_B281BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_A281BF21BA6E8A55": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_A281BF21BA6E8A55",
+    "History": {
+      "Owner": "A281BF21BA6E8A55",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656125040036_D6DA9554CACA1015": {
+    "Aggression": 4,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "CircleSpeed_Add_04",
+      "mod2": "DisruptionShake_Add_04",
+      "mod3": "HaywireChance_Add_04",
+      "mod4": "Static_Sub_04"
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656125040036_D6DA9554CACA1015",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 20237,
+    "OnScreenDuration": 14400000,
+    "Perception": 5,
+    "RemoveTime": 1656139440033,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 1,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656125040033
+  },
+  "Hellspawn111222214_1656125046154_D6DA9554CACA1015": {
+    "Aggression": 7,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656125046154_D6DA9554CACA1015",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 1003,
+    "OnScreenDuration": 14400000,
+    "Perception": 2,
+    "RemoveTime": 1656139446153,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 1,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656125046153
+  },
+  "Hellspawn111222214_1656125048801_D6DA9554CACA1015": {
+    "Aggression": 5,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656125048801_D6DA9554CACA1015",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 1003,
+    "OnScreenDuration": 14400000,
+    "Perception": 3,
+    "RemoveTime": 1656139448800,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 1,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656125048800
+  },
+  "Hellspawn111222214_1656125051554_D6DA9554CACA1015": {
+    "Aggression": 7,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656125051554_D6DA9554CACA1015",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 1003,
+    "OnScreenDuration": 14400000,
+    "Perception": 3,
+    "RemoveTime": 1656139451554,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 1,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656125051554
+  },
+  "Hellspawn111222214_1656106658549_A281BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_A281BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1656106658549_A281BF21BA6E8A57": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1656106658549_A281BF21BA6E8A57",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_2256106658549_A281BF21BA6E8A57": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_2256106658549_A281BF21BA6E8A57",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222214_1356106658549_A281BF21BA6E8A57": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222214_1356106658549_A281BF21BA6E8A57",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn1112222151_1656106658549_A281BF21BA6E8A46": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222215_1656106658549_A281BF21BA6E8A46",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222215_1656106658549_A281BF21BA6E8A47": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222215_1656106658549_A281BF21BA6E8A47",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222215_1656106658549_A281BF21BA6E8A96": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222215_1656106658549_A281BF21BA6E8A96",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222215_1656106658549_A281BF21BA6E8A76": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222215_1656106658549_A281BF21BA6E8A76",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222215_1656106658549_A181BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222215_1656106658549_A181BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222215_1656106658549_G281BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222215_1656106658549_G281BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  },
+  "Hellspawn111222215_1656106658549_F281BF21BA6E8A56": {
+    "Aggression": 10,
+    "AnimatronicParts": {
+      "Cpu": "Corruption",
+      "PlushSuit": "Corruption",
+      "mod1": "RareSalvage_Add_03",
+      "mod2": "",
+      "mod3": "",
+      "mod4": ""
+    },
+    "Attack": 0,
+    "Durability": 10000000,
+    "EntityClass": "SpecialDelivery",
+    "EntityId": "Hellspawn111222215_1656106658549_F281BF21BA6E8A56",
+    "History": {
+      "Owner": "selfsendid",
+      "OwnerDisplayName": "Forsaken Studios Safety Team",
+      "SourceFeature": "LegacyAnimatronic"
+    },
+    "LegacyEssence": 0,
+    "OnScreenDuration": 14400000,
+    "Perception": 9,
+    "RemoveTime": 1656121058545,
+    "RetireTime": 0,
+    "RevealedBy": "Legacy",
+    "RevealedFlag": true,
+    "RewardsV3": {
+      "AnimatronicRewards": {},
+      "CPURewards": {},
+      "CurrencyRewards": {
+        "ESSENCE": 1,
+        "PARTS": 10
+      },
+      "EssenceOnLose": 0,
+      "ModRewards": {}
+    },
+    "SpawnTime": 1656106658545
+  }
