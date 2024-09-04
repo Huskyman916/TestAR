@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3420045565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a2ee23bf64b44807e2713f6636f59ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1a2ee23bf64b44807e2713f6636f59ee
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UN-BUILT/UI/Icons/Portrait/alpine_ui_portrait_chica.png
+- Assets/UN-BUILT/UI/Icons/Portrait/alpine_ui_portrait_bareendo.png
+- Assets/UN-BUILT/UI/Icons/Portrait/alpine_ui_portrait_bonnie.png
+- Assets/UN-BUILT/UI/Icons/Portrait/alpine_ui_portrait_mxes.png
+- Assets/UN-BUILT/UI/Icons/Portrait/alpine_ui_portrait_mangle.png
+- Assets/UN-BUILT/UI/Icons/Portrait/alpine_ui_portrait_foxy.png
+- Assets/UN-BUILT/UI/Icons/Portrait/alpine_ui_portrait_corruption.png
+- Assets/UN-BUILT/UI/Icons/Portrait/alpine_ui_portrait_springtrap.png
+- Assets/UN-BUILT/UI/Icons/Portrait/alpine_ui_portrait_freddy.png
+Dependencies: []
