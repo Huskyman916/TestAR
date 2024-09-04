@@ -1,0 +1,1 @@
+{"Entries":[{"Logical":"Freddy","Settings":{"Movement":{"WalkSpeed":2,"RunSpeed":3},"LoseTime":3.0,"SearchLockerChance":0.3,"SwapDirectionAfterLosePlayerChance":0.5}},{"Logical":"Bonnie","Settings":{"Movement":{"WalkSpeed":3,"RunSpeed":3.5},"LoseTime":4.0,"SearchLockerChance":0.5,"SwapDirectionAfterLosePlayerChance":0.5}}]}
