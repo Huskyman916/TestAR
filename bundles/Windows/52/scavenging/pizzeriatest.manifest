@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+CRC: 1646175197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 902a41fc9744f014e2c8ab898bcc72a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9fe34030614ea1c884e85264e011a906
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 902a41fc9744f014e2c8ab898bcc72a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b69c542c9a8f4f44a3123e3fa103d13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 797f253d3a9769046945580f75148afb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da1c0c1ee6ed57b428e24f7fd4b8033b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 622f0a83bee0ae140a5aab16d2588ab5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f327db2039913f24db6675f7ff6d2e34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 237a5b915ed8e614bbab8bf72e164859, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be4ecc1985725b548b12fdfca7c1c96f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 558dd6d156642974780bc97cd2ab1bd2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eea2fb61a7d45684a81aea2da3b28868, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 473873b44eae28740a5cc7e48f94828f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3be5e33915e952b4cac8186b1a6f8f3f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b7b42303604da246a2ead4ca50a23d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aed7351931f507947accfd005ecab7d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47c2391f6cb4488409c9237ca82dd369, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30e34e639558757479b2d72d8e3b69b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e925accf5bfc7e4a8b8579243d51ce1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UN-BUILT/Scavenging/PizzeriaTest/PizzeriaTest.unity
+Dependencies:
+- D:/Users/orton/Documents/GitHub/Forsaken-MR/AssetBundles/StandaloneWindows/animatronics/freddy
