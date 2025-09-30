@@ -1,0 +1,139 @@
+ManifestFileVersion: 0
+CRC: 4175923211
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: animatronics/shared
+      Dependencies: {}
+    Info_1:
+      Name: droppable_objects/mangle_encounter
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_2:
+      Name: ui/icons/portrait
+      Dependencies: {}
+    Info_3:
+      Name: droppable_objects/chica_encounter
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_4:
+      Name: ui/icons/encounter
+      Dependencies: {}
+    Info_5:
+      Name: trophies/basic
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_6:
+      Name: environments/freddy
+      Dependencies: {}
+    Info_7:
+      Name: animatronics/bonnie
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_8:
+      Name: animatronics/shadowbonnie
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_9:
+      Name: animatronics/foxy
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_10:
+      Name: ui/mapentitycommon
+      Dependencies: {}
+    Info_11:
+      Name: animatronics/corruption
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_12:
+      Name: environments/bonnie
+      Dependencies: {}
+    Info_13:
+      Name: ballooncommon
+      Dependencies: {}
+    Info_14:
+      Name: ui/icons/trophies
+      Dependencies: {}
+    Info_15:
+      Name: animatronics/phantomfreddy
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_16:
+      Name: ui/icons/cpu
+      Dependencies: {}
+    Info_17:
+      Name: animatronics/phantombb
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_18:
+      Name: ui/icons/plushsuit
+      Dependencies: {}
+    Info_19:
+      Name: animatronics/chica
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_20:
+      Name: animatronics/mxes
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_21:
+      Name: intros/freddy
+      Dependencies: {}
+    Info_22:
+      Name: ui/icons/reward
+      Dependencies: {}
+    Info_23:
+      Name: ui/icons/profileavatar
+      Dependencies: {}
+    Info_24:
+      Name: environments/chica
+      Dependencies:
+        Dependency_0: environments/shared
+    Info_25:
+      Name: animatronics/freddy
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_26:
+      Name: intros/bonnie
+      Dependencies: {}
+    Info_27:
+      Name: ui/icons/mod
+      Dependencies: {}
+    Info_28:
+      Name: ui/icons/store
+      Dependencies: {}
+    Info_29:
+      Name: animatronics/springtrap
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_30:
+      Name: animatronics/bareendo
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_31:
+      Name: audio
+      Dependencies: {}
+    Info_32:
+      Name: scavenging/pizzeriatest
+      Dependencies:
+        Dependency_0: trophies/mask
+        Dependency_1: environments/shared
+    Info_33:
+      Name: animatronics/lefty
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_34:
+      Name: animatronics/chocolate_bonnie
+      Dependencies:
+        Dependency_0: animatronics/shared
+    Info_35:
+      Name: trophies/mask
+      Dependencies: {}
+    Info_36:
+      Name: environments/lefty
+      Dependencies:
+        Dependency_0: animatronics/shared
+        Dependency_1: environments/shared
+    Info_37:
+      Name: environments/shared
+      Dependencies: {}

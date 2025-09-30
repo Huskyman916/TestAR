@@ -1,0 +1,269 @@
+ManifestFileVersion: 0
+CRC: 3633108634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 580b9d8070cc8be3581546a6f5b5d23a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa7f870463a5a85d264602433cff731f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 580b9d8070cc8be3581546a6f5b5d23a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d26530a245ae7574986635663a916441, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Meter Light Prefabs/BrokenLight.prefab
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Meter Light Prefabs/YellowLight.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Models/kidschaird.png
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Meshes/Wall_1x1.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing6-2.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat03.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Materials/Wall Museum Concrete
+  Bright Normal.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Models/kidstabled.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb wall01.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat06.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/Table01_MAT_Table_01_BaseColor.png
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/MeterPanel_Mat_AlbedoTransparency.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing5-4.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/MeterPanel_Mat_MetallicSmoothness.png
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/L_BushingCover.controller
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/CobwebWall (2).prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing2-5.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing6-4.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb corridor.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/PaperMen.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/MeterPanel_GEO.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Trash05.prefab
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Materials/Shop Wall Door Frame.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing3-2.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/Bushing_Mat_AO.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat04.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/BushingGlass_Mat_MetallicSmoothness.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/CobwebWall (1).prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing1-2.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/MeterPanel_Mat_Normal.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing3-1.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing4-2.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/FNaF 1 Wall Pizzas_Wall_Pizza_02_MetallicSmoothness.png
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/BushingGlass_Left.overrideController
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing4-1.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Door/Materials/Shop Door.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/Table01_MAT_Table_01_Normal.png
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Materials/Shop Wall Door Frame.png
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Meter Light Prefabs/RedLight.prefab
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/BushingGlass_Mat_AlbedoTransparency.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Trash03.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb ceiling01.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Ceiling/Meshes/Ceiling_1x1.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing5-2.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/CobwebWall.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/DrawingsMediumWide.prefab
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/Bushing_Mat_MetallicSmoothness.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Paper_Wrinkled_001_normal.jpg
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/R_Cover_Up.anim
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Trash02.prefab
+- Assets/UN-BUILT/Environments/Shared/Geometry/Door/Materials/Shop Door_DefaultMaterial_Normal.png
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Meter Light Prefabs/GreenLight.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing6-3.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/FNAF Wall 01 - 1x0.5 - Main.prefab
+- Assets/UN-BUILT/Environments/Shared/Geometry/Floor/Floor 1x1.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/drawings
+  2.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Models/Fnaf1Table.fbx
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Models/Table01.fbx
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing5-5.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat05.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Cobweb Horizontal.prefab
+- Assets/UN-BUILT/Environments/Shared/Geometry/Floor/Floor 0.5x0.5.prefab
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/BushingGlass_Right_New.overrideController
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Bushing_R_GEO.asset
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/L_Cover_Down.anim
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/R_Cover_Down.anim
+- Assets/UN-BUILT/Environments/Shared/Geometry/Door/Materials/Shop Door Handle.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat01.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Door/Materials/Shop Door.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/WallPizza01.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/WallPizza02_Slice.prefab
+- Assets/UN-BUILT/Environments/Shared/Shaders/Ciconia Studio_CS_Standard_Builtin_Standard
+  (Specular setup)_Transparent.shader
+- Assets/UN-BUILT/Environments/Shared/Shaders/Alpha Clip.shader
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb ceiling03.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Ceiling/Meshes/Ceiling_1x0.5.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Models/Wall_Pizza_02.fbx
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/FNaF 1 Wall Pizzas_Wall_Pizza_02_AlbedoTransparency.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Trash01.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing6-5.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Door/Materials/Shop Door_DefaultMaterial_BaseColor.png
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/L_Bushing_Up.anim
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/MeterPanelWall_Mat_AlbedoTransparency.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/WallPizza01.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat05.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/FNAF Wall 01 - 1x0.25 - Main.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/PizzaSimTable.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/FNaF 1 Wall Pizzas_Wall_Pizza_02_Normal.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Models/Wall_Pizza_01.fbx
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing4-5.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat02.mat
+- Assets/UN-BUILT/Environments/Shared/Shaders/Ciconia Studio_CS_Standard_Builtin_Standard
+  (Specular setup)_Cutout.shader
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Models/FFPSTable.fbx
+- Assets/UN-BUILT/Environments/Shared/Shaders/World Space Floor.shader
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/BushingGlass_Mat_Normal.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/DrawingsMediumTall.prefab
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/MeterPanel_Mat_AO.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat06.png
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/MeterPanelWall_Mat_Normal.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing3-5.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Meter Light Prefabs/OrangeLight.prefab
+- Assets/UN-BUILT/Environments/Shared/Geometry/Door/Meshes/Shop Door.asset
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Meshes/vent wall.fbx
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Materials/Wall Museum Concrete
+  Bright Bottom.png
+- Assets/UN-BUILT/Environments/Shared/Geometry/Ceiling/Ceiling 1x0.5.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb ceiling02.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat04.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb horizontal01.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb wall01.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/DrawingsLarge.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Models/KidsChair.fbx
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing1-1.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Meshes/Wall_1x0.5.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb horizontal02.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Chair.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/WallPizza02.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/FNAF Wall 01 - 1x1 - Door.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Trash06.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat03.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing5-1.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/PaperMen.fbx
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/BusingGlass_R_GEO.asset
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/Bushing_Mat.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Models/T_PizzaSimTable_diff.png
+- Assets/UN-BUILT/Environments/Shared/Geometry/Floor/Materials/Floor World Space.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Meshes/Shop Wall Door Frame.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing6-1.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Trash04.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb horizontal03.png
+- Assets/UN-BUILT/Environments/Shared/Geometry/Ceiling/Materials/Ceiling.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Models/T_fabric_01_D.png
+- Assets/UN-BUILT/Environments/Shared/Geometry/Ceiling/Ceiling 1x1.prefab
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/R_Bushing_Up.anim
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/MeterPanelWall_Mat_AO.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/WallPizza02.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb ceiling03.png
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Meshes/new door.fbx
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/Table01.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/BushingGlass_Mat.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb corridor.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Cobweb Horizontal.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb ceiling02.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Models/T_Chair_02a_ALB_Clean.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing3-3.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/MeterPanelWall_Mat_MetallicSmoothness.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing2-3.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/Bushing_Mat_Normal.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/DrawingsTiny.prefab
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/Meter_Body.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/R_Bushing_Down.anim
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb ceiling05.png
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Meshes/Wall Corner Outer.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing2-2.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/KidsTable.prefab
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Materials/Wall Corner.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing1-5.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat02.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/arctic trash.asset
+- Assets/UN-BUILT/Environments/Shared/Geometry/Floor/Floor 0.25x0.25.prefab
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/FNAF Wall 01 - 1x1 - Main.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing1-3.mat
+- Assets/UN-BUILT/Environments/Shared/envsizeref.fbx
+- Assets/UN-BUILT/Environments/Shared/Geometry/Ceiling/Meshes/Ceiling_1x0.25.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb ceiling04.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Table.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/DrawingsSmall.prefab
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/FNaF 1 Wall Pizzas_Wall_Pizza_01_Normal.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb horizontal03.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/L_Cover_Up.anim
+- Assets/UN-BUILT/Environments/Shared/Geometry/Floor/Meshes/Floor_1x0.5.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb ceiling05.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Trash/Materials/arctic trash
+  flat01.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/Table01_MAT_Table_01_Metallic.png
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/L_Bushing_Down.anim
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Wall Corner Outer.prefab
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Materials/Wall.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/FNaF 1 Wall Pizzas_Wall_Pizza_01_MetallicSmoothness.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/DrawingSingle.fbx
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing4-3.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Wall/Meshes/Wall_1x0.25.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing3-4.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Floor/Meshes/Floor_1x0.25.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb horizontal.png
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/Bushing_Mat_AlbedoTransparency.png
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb horizontal02.mat
+- Assets/UN-BUILT/Environments/Shared/Geometry/Floor/Meshes/Floor_1x1.asset
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing1-4.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing5-3.mat
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Animations/R_BushingCover.overrideController
+- Assets/UN-BUILT/Environments/Shared/Shaders/Ciconia Studio_CS_Standard_Builtin_Lite_Standard
+  (Specular setup)_Cutout.shader
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Materials/FNaF 1 Wall Pizzas_Wall_Pizza_01_AlbedoTransparency.png
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Materials/Meter_Wall.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb ceiling04.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Models/Wall_Pizza_02_Slice.fbx
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing4-4.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing2-1.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/Drawing2-4.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Generic/Cobwebs/Materials/cobweb ceiling01.png
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/temp/Models/T_StripedTableCloth_diff.png
+- Assets/UN-BUILT/Environments/Shared/Geometry/Door/Meshes/Shop Door Handle.asset
+- Assets/UN-BUILT/Environments/Shared/BushingMechanic/Meter Light Prefabs/MeterLight.mat
+- Assets/UN-BUILT/Environments/Shared/Props/Pizzeria/Drawings/Materials/drawings
+  1.png
+Dependencies: []
