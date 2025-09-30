@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 2911854983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4cdbdd5cf0a570df669b7726d9a7f927
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eb513b2d9228c497b0b79ef976796f53
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4cdbdd5cf0a570df669b7726d9a7f927
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UN-BUILT/Trophies/Basic/ChicaHead.fbx
+- Assets/UN-BUILT/Trophies/Basic/EndoHead.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/good enough.png
+- Assets/UN-BUILT/Trophies/Basic/FoxyHook.fbx
+- Assets/UN-BUILT/Trophies/Basic/LeftyHead.fbx
+- Assets/UN-BUILT/Trophies/Basic/FreddyMicrophone.fbx
+- Assets/UN-BUILT/Trophies/Basic/ChicaCupcake.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/FazWrenchBase.mat
+- Assets/UN-BUILT/Trophies/Basic/Materials/PartyWristband_Party_Wristband_Normal.png
+- Assets/UN-BUILT/Trophies/Basic/BonnieGuitar.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/OrtonPointGold.mat
+- Assets/UN-BUILT/Trophies/Basic/BonnieHead.fbx
+- Assets/UN-BUILT/Trophies/Basic/ChicaBib.fbx
+- Assets/UN-BUILT/Trophies/Basic/OrtonPoint.fbx
+- Assets/UN-BUILT/Trophies/Basic/FoxyHead.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/TEX_MaintenanceTool_Screen_BaseColor.png
+- Assets/UN-BUILT/Trophies/Basic/BonnieBowtie.fbx
+- Assets/UN-BUILT/Trophies/Basic/LeftyEndo.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/PartyWristband_Party_Wristband_AlbedoTransparency.png
+- Assets/UN-BUILT/Trophies/Basic/Materials/Bonnie_Guitar.png
+- Assets/UN-BUILT/Trophies/Basic/EndoEyeball.fbx
+- Assets/UN-BUILT/Trophies/Basic/FoxyTooth.fbx
+- Assets/UN-BUILT/Trophies/Basic/AccuracyMangle.fbx
+- Assets/UN-BUILT/Trophies/Basic/EndoEar.fbx
+- Assets/UN-BUILT/Trophies/Basic/FazWrench.fbx
+- Assets/UN-BUILT/Trophies/Basic/SpringtrapLocks.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/TEX_MaintenanceTool_Normal.png
+- Assets/UN-BUILT/Trophies/Basic/Materials/Guitar.mat
+- Assets/UN-BUILT/Trophies/Basic/EndoWires.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/TEX_MaintenanceTool_BaseColor.png
+- Assets/UN-BUILT/Trophies/Basic/Materials/OrtonPointGoldInner.mat
+- Assets/UN-BUILT/Trophies/Basic/FreddyBowtie.fbx
+- Assets/UN-BUILT/Trophies/Basic/BonnieEyeball.fbx
+- Assets/UN-BUILT/Trophies/Basic/LeftyMicrophone.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/PartyWristband.mat
+- Assets/UN-BUILT/Trophies/Basic/PhantomFreddyHead.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/PartyWristband_Party_Wristband_MetallicSmoothness.png
+- Assets/UN-BUILT/Trophies/Basic/SpringtrapHead.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/FazWrenchScreen.mat
+- Assets/UN-BUILT/Trophies/Basic/FreddyHead.fbx
+- Assets/UN-BUILT/Trophies/Basic/ChicaBeak.fbx
+- Assets/UN-BUILT/Trophies/Basic/SpringtrapGuts.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/jolt mr shadow.png
+- Assets/UN-BUILT/Trophies/Basic/FoxyEyepatch.fbx
+- Assets/UN-BUILT/Trophies/Basic/LeftyBracelet.fbx
+- Assets/UN-BUILT/Trophies/Basic/LeftyEye.fbx
+- Assets/UN-BUILT/Trophies/Basic/Materials/TEX_MaintenanceTool_Screen_Normal.png
+- Assets/UN-BUILT/Trophies/Basic/FreddyTopHat.fbx
+- Assets/UN-BUILT/Trophies/Basic/SpringtrapFoot.fbx
+- Assets/UN-BUILT/Animatronics/Endo-02/Materials/Endo_02_Body.mat
+Dependencies:
+- D:/Users/orton/Documents/GitHub/Forsaken-MR/AssetBundles/Android/animatronics/shared

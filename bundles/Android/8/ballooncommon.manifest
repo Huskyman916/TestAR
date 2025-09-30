@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 2537937150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9eabe3379681b7b66e636da0086214c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b12fdca74d471cde2aa7e4eb8355b4c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9eabe3379681b7b66e636da0086214c6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37c7bbdc5127a36428975c616709281c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f8b052817c5b1d94b93a72e57c917018, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UN-BUILT/BalloonCommon/Balloon_Red.prefab
+- Assets/UN-BUILT/BalloonCommon/Balloon_Green.prefab
+- Assets/UN-BUILT/BalloonCommon/Frame_Bronze.prefab
+- Assets/UN-BUILT/BalloonCommon/RewardRig.prefab
+- Assets/UN-BUILT/BalloonCommon/Balloon_Blue.prefab
+Dependencies: []

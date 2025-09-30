@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 3687799015
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fd120b5a3dcd7b3dbae44f32825dc06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4da66f648ddff183d5dfa8d53fca2f1b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1fd120b5a3dcd7b3dbae44f32825dc06
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UN-BUILT/Trophies/Mask/Materials/Foxy_Mask_Base_color.png
+- Assets/UN-BUILT/Trophies/Mask/Materials/Foxy_Mask_Base_color (2).png
+- Assets/UN-BUILT/Trophies/Mask/Models/Peak mask (1).fbx
+- Assets/UN-BUILT/Trophies/Mask/Materials/yuck/Nightmare_Alan_AO.png
+- Assets/UN-BUILT/Trophies/Mask/Models/FoxyMask.fbx
+- Assets/UN-BUILT/Trophies/Mask/Masks/Mask_FoxyMask.prefab
+- Assets/UN-BUILT/Trophies/Mask/Materials/yuck/Gaming_Alan_Balloon_Boy_Albedo.png
+- Assets/UN-BUILT/Trophies/Mask/Trophies/FoxyMask.fbx
+- Assets/UN-BUILT/Trophies/Mask/Materials/yuck/yuppers.mat
+- Assets/UN-BUILT/Trophies/Mask/Materials/Freddy_Mask_Metallic.png
+- Assets/UN-BUILT/Trophies/Mask/Materials/old/Foxy_Mask_N_better.png
+- Assets/UN-BUILT/Trophies/Mask/Trophies/Trophy_DefaultMask.prefab
+- Assets/UN-BUILT/Trophies/Mask/Materials/FoxyMaskVy.mat
+- Assets/UN-BUILT/Trophies/Mask/Materials/Freddy_Mask_AO.png
+- Assets/UN-BUILT/Trophies/Mask/Trophies/Trophy_FoxyMask.prefab
+- Assets/UN-BUILT/Trophies/Mask/Materials/Freddy_Mask_Albedo.png
+- Assets/UN-BUILT/Trophies/Mask/Materials/Freddy_Mask_Normal.png
+- Assets/UN-BUILT/Trophies/Mask/Materials/old/Foxy_Mask_M_R.png
+- Assets/UN-BUILT/Trophies/Mask/Masks/DefaultMask.prefab
+- Assets/UN-BUILT/Trophies/Mask/Materials/Foxy_Mask_Normal_OpenGL.png
+- Assets/UN-BUILT/Trophies/Mask/Materials/old/Foxy_Mask.png
+- Assets/UN-BUILT/Trophies/Mask/Materials/yuck/Gaming_Alan_Balloon_Boy_Normal.png
+- Assets/UN-BUILT/Trophies/Mask/Materials/old/FoxyMaskMaterial.mat
+- Assets/UN-BUILT/Trophies/Mask/Materials/FoxyMask_Foxy_Mask_BaseMap.png
+- Assets/UN-BUILT/Trophies/Mask/Models/Mask_Geo.asset
+- Assets/UN-BUILT/Trophies/Mask/Materials/yuck/Gaming_Alan_Balloon_Boy_MRAC.png
+- Assets/UN-BUILT/Trophies/Mask/Materials/Freddy_Mask.mat
+- Assets/UN-BUILT/Trophies/Mask/Materials/old/FoxyMaskAlpha.mat
+- Assets/UN-BUILT/Trophies/Mask/Materials/Foxy_Mask_Base_color (1).png
+- Assets/UN-BUILT/Trophies/Mask/Materials/Foxy_Mask_Metallic.png
+- Assets/UN-BUILT/Trophies/Mask/Masks/test.prefab
+- Assets/UN-BUILT/Trophies/Mask/Materials/Foxy_Mask_Mixed_AO.png
+Dependencies: []

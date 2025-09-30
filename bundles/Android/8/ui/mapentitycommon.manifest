@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 594537850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b6525d202a6f17be98aa0fbb66b67e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4da66f648ddff183d5dfa8d53fca2f1b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0b6525d202a6f17be98aa0fbb66b67e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UN-BUILT/UI/MapEntityCommon/AnimatronicUIRig.prefab
+Dependencies: []
